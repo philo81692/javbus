@@ -12,5 +12,5 @@ Github Actions版本<br>
 ### 地址:https://www.javbus.com/forum/home.php?mod=spacecp&ac=credit (用来登录获取cookie)
 #### 以EDGE浏览器为例：
 确保在登录状态下打开上述链接，右键点击网页空白页，在菜单中选择最底部的检查并单击进入，点击源代码右边的"》"，然后点击网络，接着刷新一下当前网页，点击名称栏第一个home.php开头的，在右边翻一下就能看见cookie。
-1
+11
 ### 如需使用免翻墙网址，请自行在javbus.py中查找javbus.com（总共三处）并替换为免翻墙网址
